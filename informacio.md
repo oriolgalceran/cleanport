@@ -1,6 +1,6 @@
 # CleanPort
 
-Una solució integral per a la detecció i gestió de la contaminació marina
+Una solució integral per a la detecció i gestió de la contaminació marina.
 
 ## Sensors
 
