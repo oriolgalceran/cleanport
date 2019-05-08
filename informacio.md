@@ -8,7 +8,7 @@ Cada punt de mesura estarà composat de dues parts fonamentals:
 
 ### Sensor de presència d’hidrocarburs sense contacte
 
-El sensor que s’utilitzarà és el ROW Oil Spill Sensor. S’ha escollit aquest sistema concretament per la seva qualitat i el fet que està dissenyat específicament per a aquest fi: es podrà evitar falsos positius causats per brutícia gràcies al seu sistema làser que només excita hidrocarburs i es reduirà l’efecte de la mar degut al contenidor inoxidable que té.
+El sensor que s’utilitzarà és el ROW Oil Spill Sensor de Laser Diagnostic Instruments. S’ha escollit aquest sistema concretament per la seva qualitat i el fet que està dissenyat específicament per a aquest fi: es podrà evitar falsos positius causats per brutícia gràcies al seu sistema làser que només excita hidrocarburs i es reduirà l’efecte de la mar degut al contenidor inoxidable que té.
 
 ![imatge node](https://github.com/oriolgalceran/cleanport/blob/master/row.png)
 
