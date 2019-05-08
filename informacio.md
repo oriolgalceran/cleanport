@@ -61,4 +61,6 @@ Altres propostes, com per exemple drons autònoms, són inviables degut a la con
 
 ## Cost
 
-L'arquitectura en xarxa d'aquesta solució permet aconseguir uns costos reduïts tot superant els objectius amb escreix, ja que no requereix de la instal·lació de cables i permet la connexió de molts sensors (de diversos tipus) a una sola centraleta.
+L'arquitectura en xarxa d'aquesta solució permet aconseguir uns costos reduïts tot superant els objectius amb escreix, ja que no requereix de la instal·lació de cables i permet la connexió de molts sensors (de diversos tipus) a una sola centraleta. A més, aquesta mateixa versatilitat permet l'ús de més o menys estacions de control, seleccionades segons les necessitats particulars del Port.
+
+
