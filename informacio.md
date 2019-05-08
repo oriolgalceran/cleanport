@@ -6,13 +6,13 @@ Una solució integral per a la detecció i gestió de la contaminació marina
 
 Cada punt de mesura estarà composat de dues parts fonamentals:
 
-###Sensor de presència d’hidrocarburs sense contacte
+### Sensor de presència d’hidrocarburs sense contacte
 
 El sensor que s’utilitzarà és el ROW Oil Spill Sensor. S’ha escollit aquest sistema concretament per la seva qualitat i el fet que està dissenyat específicament per a aquest fi: es podrà evitar falsos positius causats per brutícia gràcies al seu sistema làser que només excita hidrocarburs i es reduirà l’efecte de la mar degut al contenidor inoxidable que té.
 
 A més a més, s’ha utilitzat en múltiples solucions anteriors amb èxit.
 
-###Node de sensors IoT
+### Node de sensors IoT
 
 La comunicació de tota la xarxa es durà a terme mitjançant l’estàndard de comunicacions per ràdio LoRaWAN, que permetrà facilitar enormement la instal·lació i minimitzar la infraestructura de comunicació necessària per transmetre les dades.
 
