@@ -22,9 +22,12 @@ A més a més, s’ha utilitzat en múltiples solucions anteriors amb èxit.
 
 La comunicació de tota la xarxa es duu a terme mitjançant l’estàndard de comunicacions per ràdio LoRaWAN, que permet facilitar enormement la instal·lació i minimitzar la infraestructura de comunicació necessària per transmetre les dades.
 
-Cada sensor necessita un node de comunicació per llegir les dades i enviar-les al Gateway. Aquest node, a l’estar a prop del mar, requereix protecció contra els elements. En aquest cas s'utilitza el node Falcon de l’empresa Digital Matter que disposa de protecció IP67.
+Cada sensor necessita un node de comunicació per llegir les dades i enviar-les al Gateway. Aquest node, a l’estar a prop del mar, requereix protecció contra els elements. En aquest cas s'utilitza el node LoRaWAN de l’empresa Digital Matter que disposa de protecció IP67.
 
 ![imatge node](https://raw.githubusercontent.com/oriolgalceran/cleanport/master/768x590-falcon-compressed.png)
+
+### Alimentació
+Tot i que el sistema no requereix d'una connexió física de dades, sí que necessita corrent, i per tant s'haurà d'utilitzar la xarxa elèctrica del Port. En el cas de que la localització del sensor no ho permeti, o resulti massa costós dur-ho a terme, l'empresa comercialitzadora del sensor també disposa de versions amb plaques solars i bateries, fet que asseguraria un funcionament permanent amb un manteniment mínim.
 
 ## Gateway LoRaWAN
 
@@ -56,6 +59,6 @@ El sistema de monitorització pot associar una càmera a cada sensor i mostrar l
 
 Altres propostes, com per exemple drons autònoms, són inviables degut a la condició del Port com a infraestructura crítica en moviment constant. Per molt avançats que siguin aquests sistemes, no es pot assumir el risc de que un dron impacti contra una embarcació o un vehicle industrial o comercial i els requeriments econòmics de la infraestructura necessària no la justifiquen.
 
+## Cost
 
-
-
+L'arquitectura en xarxa d'aquesta solució permet aconseguir uns costos reduïts tot superant els objectius amb escreix, ja que no requereix de la instal·lació de cables i permet la connexió de molts sensors (de diversos tipus) a una sola centraleta.
