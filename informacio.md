@@ -22,7 +22,7 @@ A més a més, s’ha utilitzat en múltiples solucions anteriors amb èxit.
 
 La comunicació de tota la xarxa es durà a terme mitjançant l’estàndard de comunicacions per ràdio LoRaWAN, que permetrà facilitar enormement la instal·lació i minimitzar la infraestructura de comunicació necessària per transmetre les dades.
 
-Cada sensor necessitarà un node de comunicació que llegeixi les dades i les envii a la gateway central. Aquest node, a l’estar a prop del mar, requereix protecció contra els elements. En aquest cas utilitzarem un node de l’empresa Digital Matter que disposa de protecció IP67.
+Cada sensor necessitarà un node de comunicació que llegeixi les dades i les envii al Gateway. Aquest node, a l’estar a prop del mar, requereix protecció contra els elements. En aquest cas utilitzarem el node Falcon de l’empresa Digital Matter que disposa de protecció IP67.
 
 ![imatge node](https://raw.githubusercontent.com/oriolgalceran/cleanport/master/768x590-falcon-compressed.png)
 
