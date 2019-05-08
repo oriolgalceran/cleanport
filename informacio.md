@@ -49,7 +49,7 @@ El front-end consisteix en un lloc web d’accés privat (o a la intranet del Po
 
 Les dades del web actualment són una simulació ja que les dades ara mateix no estan disponibles.
 
-El lloc web està disponible a https://oriolgalceran.github.io/cleanport
+El lloc web està disponible a https://oriolgalceran.github.io/cleanport . També funciona perfectament en dispositius mòbils.
 
 ## Validació
 
