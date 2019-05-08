@@ -34,7 +34,7 @@ La funció d’aquest gateway és reunir les dades de tots els sensors i redirig
 
 Per una infraestructura amb ambicions de lideratge en el món de l’IoT, establir una xarxa d’aquest tipus és pràcticament una obligació, ja que els seus usos no s’acaben aquí: resultarà una eina imprescindible per futurs projectes al Port. Per exemple, sense sortir d’aquest mateix cas, es podria fàcilment instal·lar una sèrie de trackers GPS als vehicles i embarcacions de lluita per conèixer exactament on són durant un esdeveniment de contaminació i poder respondre efectivament a les necessitats del moment. Els beneficis no s’acaben aquí: en el cas de que es volgués fer una altra instal·lació no caldria utilitzar cap tipus de cable o pagar accés a xarxes cel·lulars perquè el Port disposaria d’una xarxa independent de comunicació immune a factors externs. Altres aplicacions serien una xarxa de control meteorològic, comptadors de persones, tracking de mercaderies, assistència a la Policia Portuària, gestió d’incidències...
 
-!(gateway)[https://github.com/oriolgalceran/cleanport/blob/master/lorawan_gateway_IX1001_3.png]
+![gateway](https://github.com/oriolgalceran/cleanport/blob/master/lorawan_gateway_IX1001_3.png)
 
 ## Sistema de monitorització
 
